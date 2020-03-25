@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/library-laboratory/static/css/main.5f361e03.chunk.css",
+    "main.js": "/library-laboratory/static/js/main.290c3fe1.chunk.js",
+    "main.js.map": "/library-laboratory/static/js/main.290c3fe1.chunk.js.map",
+    "runtime-main.js": "/library-laboratory/static/js/runtime-main.b9b115f0.js",
+    "runtime-main.js.map": "/library-laboratory/static/js/runtime-main.b9b115f0.js.map",
+    "static/js/2.a430f49c.chunk.js": "/library-laboratory/static/js/2.a430f49c.chunk.js",
+    "static/js/2.a430f49c.chunk.js.map": "/library-laboratory/static/js/2.a430f49c.chunk.js.map",
+    "index.html": "/library-laboratory/index.html",
+    "precache-manifest.cd9b8ea12e5e9c2dd5740f97116b1aba.js": "/library-laboratory/precache-manifest.cd9b8ea12e5e9c2dd5740f97116b1aba.js",
+    "service-worker.js": "/library-laboratory/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/library-laboratory/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.a430f49c.chunk.js.LICENSE.txt": "/library-laboratory/static/js/2.a430f49c.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/library-laboratory/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b9b115f0.js",
+    "static/js/2.a430f49c.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.290c3fe1.chunk.js"
+  ]
+}
