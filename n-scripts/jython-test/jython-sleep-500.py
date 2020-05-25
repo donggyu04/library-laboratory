@@ -44,4 +44,4 @@ class TestRunner:
 	# test method		
 	def __call__(self):
 		self.before()
-		time.sleep(500);
+		time.sleep(1);
