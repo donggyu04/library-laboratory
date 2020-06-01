@@ -1,3 +1,4 @@
+<!--
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
@@ -26,14 +27,14 @@
             <scope>provided</scope>
         </dependency>
 
-        <!-- Add the dependencies -->
-        <!--
+        &lt;!&ndash; Add the dependencies &ndash;&gt;
+        &lt;!&ndash;
         <dependency>
             <groupId>commons-io</groupId>
             <artifactId>commons-io</artifactId>
             <version>2.0.1</version>
         </dependency>
-         -->
+         &ndash;&gt;
 
         <dependency>
             <groupId>org.kohsuke</groupId>
@@ -62,4 +63,4 @@
             </plugin>
         </plugins>
     </build>
-</project>
+</project>-->
