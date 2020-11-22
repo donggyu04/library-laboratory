@@ -23,7 +23,6 @@ dependencies {
     compileOnly (group: "org.ngrinder", name: "ngrinder-groovy", version: ngrinder_version)
     implementation (group: "commons-io", name: "commons-io", version: "2.0.1")
     compile group: 'org.apache.commons', name: 'commons-lang3', version: '3.11'
-
 }
 
 task copyDependencies(type: Copy) {
